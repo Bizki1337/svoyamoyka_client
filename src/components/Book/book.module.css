@@ -1,0 +1,15 @@
+.wrapper {
+    position: fixed;
+    right: 30px;
+    bottom: 200px;
+}
+.button {
+    border-radius: 5px;
+    background-color: #FF013E;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+    font-size: 1.2em;
+    border: none;
+    cursor: pointer;
+}
